@@ -1,66 +1,55 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+## UNIWERSYTET W BIAŁYMSTOKU WYDZIAŁ EKONOMICZNO-INFORMATYCZNY W WILNIE
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+![image9](https://user-images.githubusercontent.com/73848036/207836787-b9017f7f-5cd2-4778-af7a-ed73cd77b29e.png)
 
-## About Laravel
+## Laravel Framework
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Jacek Siwicki
+Programowanie we Frameworkach
+Informatyka, 3 rok
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Wilno, 15 listopada 2022 r.
 
-## Learning Laravel
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## Projekt nr. 1
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+Funkcjonalność strony:
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+Strona główna:
 
-## Laravel Sponsors
+![image2](https://user-images.githubusercontent.com/73848036/207849614-4f65dc96-ceb1-4eca-b701-947202057205.png)
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+## Strona “About Us”:
+![image7](https://user-images.githubusercontent.com/73848036/207849840-8edaa8a3-e762-440b-988d-efdcc6489bdf.png)
 
-### Premium Partners
+## Strona “Contacts”:
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+![image4](https://user-images.githubusercontent.com/73848036/207849955-600e87b1-d87b-47fd-8c19-4b2b101ec50f.png)
 
-## Contributing
+## Opcja “Categories”:
+Po kliknięciu na którąś z kategorii wyświetla się odpowiedni post.
+![image6](https://user-images.githubusercontent.com/73848036/207850295-a523b81a-d7b8-4e41-bad0-265ac3084a09.png)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
-## Code of Conduct
+## Posty:
+Po kliknięciu na któryś z postów, wyświetla się nazwa postu oraz zawartość (w tym przypadku zawartość to randomowy tekst “asdsadsadsadsa” zaznaczone na czerwono
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+![image12](https://user-images.githubusercontent.com/73848036/207850470-2dba7f02-a06d-49b3-8e13-ac7468945553.png)
 
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+## Baza danych (tylko elementy krytyczne dla projektu):
+### Struktura:
+![image11](https://user-images.githubusercontent.com/73848036/207850666-305db5b7-1edd-4e7f-8c51-9784086354e1.png)
+## Struktura table “categories”:
+![image5](https://user-images.githubusercontent.com/73848036/207850834-78123814-7ae0-43f7-856f-cd7d77ae21eb.png)
+## Zawartość “categories”:
+![image3](https://user-images.githubusercontent.com/73848036/207850968-7120f781-5c48-440e-9491-852002012f18.png)
+## Migracje DB:
+![image1](https://user-images.githubusercontent.com/73848036/207851052-dcae50a2-469e-48c9-91df-167bd45f31a3.png)
+## Struktura “posts”:
+![image10](https://user-images.githubusercontent.com/73848036/207851160-bd2b153b-6e4b-4568-90a0-b3c98752645e.png)
+## Zawartość “posts”:
+![image8](https://user-images.githubusercontent.com/73848036/207851248-756292e0-3c6c-41f0-ba03-2202e7479f7d.png)
+## Kod:
+Projekt jest dostępny publicznie na moim GitHubie.
+https://github.com/verymadjack/Laravel-Project-1
